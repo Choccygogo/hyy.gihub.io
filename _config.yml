@@ -1,13 +1,13 @@
 # Site settings
 title: A.P
 baseurl: 
-url: "https://kssim.github.io"
+url: "https://github.com/Choccygogo/hyy.gihub.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
   name: HU Yaoyuan
-  desc: Hello nice to meet you
+  desc: Passion & Curiosity
   email: huyaoyuanqaq@gmail.com
   selfie: assets/img/profile.jpeg
 
@@ -17,11 +17,11 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook:
   flickr:
-  github: kssim
+  github: Choccygogo
   google_plus:
-  instagram:
+  instagram: choccygogogo
   keybase:
   linkedin: https://www.linkedin.com/in/yaoyuan-hu-2a2126297/
   pinterest:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter:
   vimeo:
   wordpress:
   youtube:
